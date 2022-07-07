@@ -7,6 +7,7 @@ I'm a full time Data Engineer who loves data in all forms. I trully believe that
 
 #### When it comes to open initiatives...
 I'm currently working on a [Simple APY Gateway](https://github.com/fdiaspp/simple-apy-gateway) 😆.
+Also, contributed on [gerador_cnpj](https://github.com/fdiaspp/gerador_cnpj) study project.
 
 #### What I already did?
 🎓 [A Compiler](https://github.com/fdiaspp/Compiladores) built using Python during my Computer Science graduation.
