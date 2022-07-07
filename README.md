@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-Currently working as Data Engineer full time. Find me on social medial. Lets chat! 
+I'm a full time Data Engineer who loves data in all forms. I trully believe that knowledge -- which normaly comes trough data -- can free us. Find me on social medial. Lets chat! 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipediaspereira/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dias_flp)
 
+#### When it comes to open initiatives...
+I'm currently working on a [Simple APY Gateway](https://github.com/fdiaspp/simple-apy-gateway) 😆.
+
 #### What I already did?
-- [A Compiler](https://github.com/fdiaspp/Compiladores) built using Python during my Computer Science graduation.
+🎓 [A Compiler](https://github.com/fdiaspp/Compiladores) built using Python during my Computer Science graduation.
 
 
 <!--
