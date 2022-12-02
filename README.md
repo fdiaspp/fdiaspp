@@ -6,8 +6,7 @@ I'm a full time Data Engineer who loves data in all forms. I trully believe that
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dias_flp)
 
 #### When it comes to open initiatives...
-I'm currently working on a [Simple APY Gateway](https://github.com/fdiaspp/simple-apy-gateway) 😆. \
-Also, contributed on [gerador_cnpj](https://github.com/fdiaspp/gerador_cnpj) study project.
+I'm currently on a path to learn Scala! Take a look [here](https://github.com/fdiaspp/scala-learning) to see what I did already 😆.
 
 #### What I already did?
 🎓 [A Compiler](https://github.com/fdiaspp/Compiladores) using Python during my Computer Science graduation.
