@@ -5,13 +5,6 @@ I'm a full time Data Engineer who loves data in all forms. I trully believe that
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipediaspereira/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dias_flp)
 
-#### When it comes to open initiatives...
-I'm currently on a path to learn Scala! Take a look [here](https://github.com/fdiaspp/scala-learning) to see what I did already 😆.
-
-#### What I already did?
-🎓 [A Compiler](https://github.com/fdiaspp/Compiladores) using Python during my Computer Science graduation.
-
-
 <!--
 **fdiaspp/fdiaspp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
